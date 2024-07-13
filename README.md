@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/JubelGeorge115/jubes/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Jubel George</h1>
 <h3 align="center">A passionate AIML Engineer from India</h3>
 
